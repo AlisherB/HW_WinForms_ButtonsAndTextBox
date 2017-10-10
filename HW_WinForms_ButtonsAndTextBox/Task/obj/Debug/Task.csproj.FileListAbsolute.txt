@@ -1,0 +1,10 @@
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\bin\Debug\Task.exe.config
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\bin\Debug\Task.exe
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\bin\Debug\Task.pdb
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\obj\Debug\Task.MainForm.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\obj\Debug\Task.exe
+C:\Users\БекмухамбетА.CORP\Documents\GitLab\HW_WinForms_ButtonsAndTextBox\HW_WinForms_ButtonsAndTextBox\Task\obj\Debug\Task.pdb
